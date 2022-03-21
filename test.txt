@@ -1,0 +1,4 @@
+notepad test.txt creates that file
+we use "vi" on mac instead of "notepad" for windows
+vi stands for visual editor
+there's also another popular text editor called "vim"
